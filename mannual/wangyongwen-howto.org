@@ -68,6 +68,7 @@
  - 邮箱：用于学业、学术及技术等业务交流；
  - ORCID: 0009-0008-2514-2052；
  - CCF会员号：12958S；
+ - DBLP: https://dblp.org/pid/64/3980.html
  - Github: https://github.com/wang-yongwen/students-howto 他整理的一些指
    导学生如何做研究的文章。
 
